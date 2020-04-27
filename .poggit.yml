@@ -2,6 +2,6 @@
 branches:
 - stable
 projects:
-  NPC:
+  NPCcreator:
     path: ""
 ...
